@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dietetyk_szczecin/static/css/main.8f4f802e.css",
+    "main.js": "/dietetyk_szczecin/static/js/main.586cac8d.js",
+    "static/js/453.169d64f9.chunk.js": "/dietetyk_szczecin/static/js/453.169d64f9.chunk.js",
+    "static/media/fruits-banner.jpg": "/dietetyk_szczecin/static/media/fruits-banner.7f033d10ad14df345fa8.jpg",
+    "static/media/profile-image.jpg": "/dietetyk_szczecin/static/media/profile-image.08a75f9d34df68d2bf45.jpg",
+    "index.html": "/dietetyk_szczecin/index.html",
+    "main.8f4f802e.css.map": "/dietetyk_szczecin/static/css/main.8f4f802e.css.map",
+    "main.586cac8d.js.map": "/dietetyk_szczecin/static/js/main.586cac8d.js.map",
+    "453.169d64f9.chunk.js.map": "/dietetyk_szczecin/static/js/453.169d64f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f4f802e.css",
+    "static/js/main.586cac8d.js"
+  ]
+}
